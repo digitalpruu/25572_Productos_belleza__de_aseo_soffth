@@ -63,13 +63,14 @@
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "gonzalezrache",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "@constanzagonzal35",
+        "icon": "/assets/images/tiktok.png",
+        "url":""
       }
     ]
   },
