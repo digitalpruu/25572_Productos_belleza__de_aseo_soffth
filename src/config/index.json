@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "gonzalezrache",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url": "https://www.instagram.com/gonzalezrache?utm_source=qr&igsh=MWpvd3p3NHFtamR5cA=="
       },
       {
         "name": "Tiktok",
         "description": "@constanzagonzal35",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url":"https://www.tiktok.com/@constanzagonzal35?_t=8q5PPHvjVJd&_r=1"
       }
     ]
   },
